@@ -29,10 +29,7 @@ Test play by pressing the play button. Clicking represents the "Fire1" input for
 
 
 
-Build out the apk with Custom settings and assets using Unity's build settings. Gradle / Internal errors are most likely due to mismatched versions of Unity / GoogleVR Sdk/ and And
-```sh
-ng serve --open
-```
+Build out the apk with Custom settings and assets using Unity's build settings. Gradle / Internal errors are most likely due to mismatched versions of Unity / GoogleVR Sdk/ Android
 
 ## Android Installation .apk
 
